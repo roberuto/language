@@ -1,0 +1,302 @@
+刀	かたな	katana	sword
+木刀	ぼくとう	bokutou	wooden sword
+鋭い	するどい	surudoi	sharp (knife, claws, etc.)
+入刀	にゅうとう	nyuutou	cutting the cake
+入刀する	にゅうとうする	nyuutou suru	cutting the cake
+結婚式	けっこんしき	kekkonshiki	wedding
+剣道	けんどう	kendou	kendo
+竹刀	しない	shinai	bamboo sword
+刀剣	とうけん	touken	sword, dagger
+絵	え	e	picture, drawing
+絵画	かいが	kaiga	painting, picture
+絵本	えほん	ehon	picture book
+似顔絵	にがおえ	nigaoe	portrait
+餅	もち	mochi	mochi, (sticky) rice cake
+描く人	かくにん	kakunin	drawing person
+描く	かく	kaku	to draw, to paint
+魚	さかな	sakana	fish
+金魚	きんぎょ	kingyo	goldfish
+魚座	うおざ	uoza	Pisces
+料理	りょうり	ryouri	cooking
+大型	おおがた	oogata	large, large-sized
+漁船	ぎょせん	gyosen	fishing boat
+大型漁船	おおがたぎょせん	oogatagyosen	large fishing boat
+焼き魚	やきざかな	yakizakana	grilled fish
+船	ふね	fune	ship
+船長	せんちょう	senchou	ship's captain, skipper
+船旅	ふなたび	funatabi	trip by boat, sea trip
+乗る	のる	noru	to get on
+旅	たび	tabi	trip
+社	やしろ	yashiro	shrine
+会社	かいしゃ	kaisha	company
+社会	しゃかい	shakai	society, public, community
+社説	しゃせつ	shasetsu	editorial, leading article, leader
+社長	しゃちょう	shachou	company president, manager, director
+神社	じんじゃ	jinja	Shinto shrine
+鳥居	とりい	torii	torii, Shinto shrine archway
+新聞	しんぶん	shinbun	newspaper
+読む	よむ	yomu	to read
+会社員	かいしゃいん	kaishain	company employee
+福祉司	ふくしし	fukushishi	welfare official, welfare worker​
+寺	てら	tera	temple (Buddhist)
+寺院	じいん	jiin	Buddhist temple
+東大寺	とうだいじ	toudaiji	Todaiji temple
+金閣寺	金閣寺	kinkakuji	Kinkakuji (temple in Kyoto)
+止める	とめる	tomeru	to stop, to turn off​
+中止	ちゅうし	chuushi	interruption, discontinuance, suspension, stoppage
+休止	きゅうし	kyuushi	pause, suspension, rest, stoppage
+非常停止	ひじょうていし	hijouteishi	emergency stop
+雨天	うてん	uten	rainy weather
+中止	ちゅうし	chuushi	interruption, discontinuance, suspension, stoppage
+雨天中止	うてんちゅうし	utenchuushi	cancelled because of rain, wash out
+走る	はしる	hashiru	to run
+徒競走	ときょうそう	tokyousou	foot race
+廊下	ろうか	rouka	corridor, hallway, passageway
+道路	どうろ	douro	road, highway
+逆走	ぎゃくそう	gyakusou	going in the opposite direction
+歩く	あるく	aruku	to walk
+歩道	ほどう	hodou	ootpath, walkway, sidewalk, pavement
+散歩	さんぽ	sanpo	walk, stroll
+何歩	なんぽ	nanpo	how many steps​
+万歩計	まんぽけい	manpokei	pedometer
+横断歩道	おうだんほどう	oudanhodou	pedestrian crossing, crosswalk
+競歩	きょうほ	kyouho	racewalking, race walking, walking race
+作る	つくる	tsukuru	to make
+作文	さくぶん	sakubun	writing (an essay, prose, etc.), composition​
+作家	さっか	sakka	author, writer, novelist, artist
+手作り	てづくり	tezukuri	handmade, homegrown, hand-crafted, homemade
+小説	しょうせつ	shousetsu	novel, story, (work of) fiction
+手巻き	てまき	temaki	rolling by hand
+会う	あう	au	to meet
+都合	つごう	tsugou	circumstances, condition, convenience
+合唱	がっしょう	gasshou	singing together, singing in union, chorus
+合計	ごうけい	goukei	sum total, total amount
+枕	まくら	makura	pillow, bolster
+合唱	がっしょう	gasshou	singing together, singing in union, chorus
+考える	かんがえる	kangaeru	to think (about, of), to think over
+考案	こうあん	kouan	plan, device, idea, design, contrivance, conception, invention
+将来	しょうらい	shourai	future, (future) prospects​
+体	からだ	karada	body
+体育	たいいく	taiiku	physical education
+体温計	たいおんけい	taionkei	(clinical) thermometer​
+体温	たいおん	taion	temperature, body temperature (human, animal)
+体重	たいじゅう	taijuu	(body) weight
+心	こころ	kokoro	mind, heart, spirit
+中心	ちゅうしん	chuushin	center, centre, middle
+心臓	しんぞう	shinzou	heart
+終わる	おわる	owaru	to end, to come to an end, to close, to finish
+安心	あんしん	anshin	peace of mind, relief
+電話	でんわ	denwa	telephone
+電気	でんき	denki	electricity
+電子	でんし	denshi	electron
+電車	でんしゃ	densha	rain, electric train
+学校	がっこう	gakkou	school
+便利	べんり	benri	convenient, handy, useful​
+電磁波	でんじは	denjiha	electromagnetic wave​
+障害	しょうがい	shougai	obstacle, impediment, hindrance, barrier, difficulty
+心配	しんぱい	shinpai	worry, concern, anxiety, uneasiness, fear​
+店	みせ	mise	store, shop
+店員	店員	tenin	employee (of a store), shop assistant, clerk
+店長	てんちょう	tenchou	shop manager
+喫茶店	きっさてん	kissaten	coffee shop, tearoom, coffee lounge, coffeehouse, cafe
+冷凍	れいとう	reitou	freezing, cold storage, refrigeration​
+紅茶	こうちゃ	koucha	black tea
+緑茶	りょくちゃ	ryokucha	green tea, Japanese tea
+茶道	さどう	sadou	tea ceremony
+お茶	おちゃ	ocha	tea (usu. green)
+煎茶	せんちゃ	sencha	green tea, green leaf tea, non-powdered tea
+米	こめ	kome	rice
+米国	べいこく	beikoku	USA
+新米	しんまい	shinmai	new rice, first rice crop of the year
+白米	はくまい	hakumai	polished rice, (uncooked) white rice
+欧米	おうべい	oubei	Europe and America, the West
+南米	なんべい	nanbei	South America​
+弱い	よわい	yowai	weak
+弱点	じゃくてん	jakuten	weak point
+弱火	よわび	yowabi	low flame (cooking), low heat, simmering
+病弱	びょうじゃく	byoujaku	weak (constitution), sickly, feeble, in poor health
+弱気	よわき	yowaki	timid, weak-kneed, fainthearted
+強い	つよい	tsuyoi	strong
+勉強	べんきょう	benkyou	study
+強火	つよび	tsuyobi	high flame (cooking), high heat, strong heat​
+強盗	ごうとう	goutou	robber, mugger
+中火	ちゅうび	chuubi	medium flame (cooking), medium heat, medium fire
+弱火	よわび	yowabi	low flame (cooking), low heat, simmering
+とろ火	とろび	torobi	low flame (heat, gas)
+炒める	いためる	itameru	to fry, to saute, to stir-fry​
+何	なに	nani	what
+幾何学	きかがく	kikagaku	geometry
+何時	なんじ	nanji	what time, which hour
+何日	なんにち	nannichi	what day
+何ぼ	なんぼ	nanbo	how much, how many
+秒	びょう	byou	second (unit of time)​
+何度	なんど	nando	how many times
+楽しい	たのしい	tanoshii	enjoyable, fun, pleasant, happy, delightful​
+音楽	おんがく	ongaku	music
+楽	らく	raku	comfort, ease, relief, (at) peace, relaxation
+仕事	しごと	shigoto	work, job
+先週	せんしゅう	senshuu	last week
+食事	しょくじ	shokuji	meal, dinner
+楽器	がっき	gakki	musical instrument
+楽園	らくえん	rakuen	paradise, Eden
+飲み会	のみかい	nomikai	drinking party, get-together
+広い	ひろい	hiroi	spacious, vast, wide
+広告	こうこく	koukoku	advertisement, advertising​
+広大	こうだい	koudai	vast, extensive, immense, huge, large, grand, magnificent​
+敷地	しきち	shikichi	site, plot, lot, grounds
+牧場	ぼくじょう	bokujou	farm (livestock), stock farm, ranch, station
+長い	ながい	nagai	long
+村長	そんちょう	sonchou	village headman, village mayor
+間	あいだ	aida	space (between), gap
+待つ	まつ	matsu	to wait
+長時間	ちょうじかん	choujikan	long time, several hours, long spell
+長所	ちょうしょ	chousho	strong point, merit, virtue, advantage
+優	やさ	yasa	gentle, affectionate
+髪が長い	かみがながい	kami ga nagai	long hair
+星	ほし	hoshi	star
+流れ	ながれ	nagare	flow (of a fluid or gas), stream, current
+流れ星	ながれぼし	nagareboshi	shooting star, falling star, meteor​
+惑星	わくせい	wakusei	planet
+星空	ほしぞら	hoshizora	starry sky​
+水星	すいせい	suisei	Mercury
+金星	きんせい	kinsei	Venus
+地球	ちきゅう	chikyuu	Earth
+火星	かせい	kasei	Mars
+木星	もくせい	mokusei	Jupiter
+土星	どせい	dosei	Saturn
+天王星	てんのうせい	tennousei	Uranus
+海王星	かいおうせい	kaiousei	Neptun
+雲	くも	kumo	cloud
+雲海	うんかい	unkai	sea of clouds
+雨雲	あまぐも	amagumo	rain cloud​
+積乱雲	せきらんうん	sekitanun	cumulonimbus cloud​
+空	そら	sora	sky
+浮かぶ	うかぶ	ukabu	to float, to be suspended
+風	かぜ	kaze	wind, breeze, draught, draft
+台風	たいふう	taifuu	typhoon
+風車	ふうしゃ	kazaguruma	windmill, wind turbine
+北風	きたかぜ	kitakaze	north wind, northerly wind
+風見鶏	かざみどり	kazamidori	weather vane
+風向き	かざむき	kazamuki	wind direction
+調べる	しらべる	shiraberu	to examine, to look up, to investigate
+風力発電	風力発電	fuuryokuhatsuden	wind power generation
+風力	ふうりょく	fuuryoku	wind power
+風車	ふうしゃ	fuusha	pinwheel (toy), windmill (toy)​
+海	うみ	umi	sea, ocean, waters​
+海水浴	かいすいよく	kaisuiyoku	swimming in the ocean, sea bathing,
+北国	きたぐに	kitaguni	northern country​
+バルト海	バルトかい	barutokai	Baltic Sea
+海外	かいがい	kaigai	foreign, abroad, overseas
+雪	ゆき	yuki	snow
+雪だるま	ゆきだるま	yukidaruma	snowman
+除雪	じょせつ	josetsu	snow removal
+雪像	せつぞう	setsuzou	snow sculpture
+転ぶ	ころぶ	korobu	to fall down, to fall over
+国	くに	kuni	country
+外国	がいこく	gaikoku	foreign country
+中国	ちゅうごく	chuugoku	China
+島国	しまぐに	shimaguni	island country
+地方	ちほう	chihou	district, region, area
+共和国	きょうわこく	kyouwakoku	republic
+光	ひかり	hikari	light
+光る	ひかる	hikaru	to shine, to glitter, to be bright
+日光	にっこう	nikkou	sunlight, sunshine, sunbeams
+観光	かんこう	kankou	sightseeing, tourism
+月光	げっこう	gekkou	moonlight, moonbeam
+日光浴	にっこうよく	nikkouyoku	sunbathing
+観光客	かんこうきゃく	kankoukyaku	tourist
+道	みち	michi	road, path
+車道	しゃどう	shadou	roadway
+水道	すいどう	suidou	water supply, water service
+書道	しょどう	shodou	calligraphy
+道具	どうぐ	dougu	tool, implement, instrument
+道路	どうろ	douro	road, highway​
+歩行者	ほこうしゃ	hokousha	pedestrian, walker
+横断	おうだん	oudan	crossing (a road, river, etc.), cutting through
+打つ	うつ	utsu	to hit, to strike
+使う	つか	tsukau	to use
+迷い	まよい	mayoi	hesitation, bewilderment, perplexity, doubt
+家	いえ	ie	house
+画家	がか	gaka	painter, artist
+家内	かない	kanai	(my) wife
+家庭	かてい	katei	home, household, family, hearth
+家族	かぞく	kazoku	family
+家賃	やちん	yachin	rent
+嫌煙家	けんえんか	kenenka	person who dislikes smoking
+愛煙家	あいえんか	aienka	heavy smoker
+旅行	りょこう	ryokou	travel, trip
+高い	たかい	takai	high, tall​
+山田家	やまだけ	yamadake	Yamada family
+家来	けらい	kerai	retainer; retinue; servant
+建てる	たてる	tateru	to build; to construct
+払う	はらう	harau	to pay
+仲良し	なかよし	nakayoshi	close friendship
+友達	ともだち	tomodachi	friend, companion
+親友	しんゆう	shinyuu	close friend
+友情	ゆうじょう	yuujou	friendship
+友人	ゆうじん	yuujin	friend
+贈る	おくる	okuru	to give (as a gift)
+励ます	はげます	hagemasu	to encourage, to cheer on
+集まり	あつまり	atsumari	gathering, meeting
+誓う	ちかう	chikau	to swear, to vow
+教える	おしえる	oshieru	to teach, to instruct
+教師	きょうし	kyoushi	teacher (classroom)
+教室	きょうしつ	kyoushitsu	classroom
+教科書	きょうかしょ	kyoukasho	textbook
+教会	きょうかい	kyoukai	church
+高校	こうこう	koukou	senior high school
+数学	すうがく	suugaku	mathematics
+家庭教師	かていきょうし	kateikyoushi	private tutor, coach, governess
+教わる	おそわる	osowaru	to be taught; to learn; to take lessons in
+勉強	べんきょう	benkyou	study
+帰る	かえる	kaeru	to return, to come home
+帰国	きこく	kikoku	return to one's country
+帰宅	きたく	kitaku	returning home, going home
+頭	あたま	atama	head
+夕方	ゆうがた	yuugata	evening, dusk
+飛行機	ひこうき	hikouki	airplane
+切る	きる	kiru	to cut
+親切	しんせつ	shinsetsu	kind, gentle
+大切	たいせつ	taisetsu	important, significant
+切手	きって	kitte	stamp
+紙	かみ	kami	paper
+手紙	てがみ	tegami	letter
+送る	おくる	okuru	to send
+切符	きっぷ	kippu	ticket
+買う	かう	kau	to buy, to purchase
+売買	ばいばい	baibai	trade, buying and selling
+買い物	かいもの	kaimono	shopping, purchased goods
+花	はな	hana	flower
+株	かぶ	kabu	stock, share​
+売る	うる	uru	to sell
+売店	ばいてん	baiten	stand, stall, booth, kiosk, store
+商売	しょうばい	shoubai	trade, business, commerce
+売り場	うりば	uriba	selling area, counter
+宝くじ	たからくじ	takarakuji	lottery
+販売	はんばい	hanbai	sales, selling, marketing​
+売り切れ	うりきれ	urikire	sold-out
+商売	しょうばい	shoubai	trade, business, commerce
+会う	あう	au	to meet, to encounter, to see
+会話	会話	kaiwa	conversation, talk, chat
+会社員	かいしゃいん	kaishain	company employee
+会議	かいぎ	kaigi	meeting, conference
+来年	らいねん	rainen	next year
+司会	しかい	shikai	leading a meeting, presiding over a meeting
+会釈	えしゃく	eshaku	slight bow
+会員	かいいん	kaiin	member; the membership
+会社	かいしゃ	kaisha	company, corporation
+語る	かたる	kataru	to talk about, to speak of, to tell, to narrate
+日本語	にほんご	nihongo	Japanese language
+外国語	がいこくご	gaikokugo	foreign language
+言語	げんご	gengo	language
+夢	ゆめ	yume	dream
+英語	えいご	eigo	English language
+語り合う	かたりあう	katariau	to talk together
+語学	ごがく	gogaku	study of foreign languages
+案内	あんない	annai	guidance, leading (the way), showing around
+知る	しる	shiru	to know
+知人	ちじん	chijin	friend
+知識	ちしき	chishiki	knowledge, information
+知り合い	しりしあい	shiriai	acquaintance
+地球	ちきゅう	chikyuu	Earth
+動く	うごく	ugoku	to move, to stir, to shift, to shake, to swing

@@ -1,0 +1,727 @@
+Ah!, Oh!	ああ	aa	
+to meet, to see	あう	au	会う
+blue	あお	ao	青
+blue	あおい	aoi	青い
+red	あか	aka	赤
+red	あかい	akai	赤い
+bright, cheerful	あかるい	akarui	明るい
+autumn, fall	あき	aki	秋
+to open, to become open	あく	aku	開く
+to open	あける	akeru	開ける
+to give	あげる	ageru	上げる
+morning	あさ	asa	朝
+breakfast	あさごはん	asagohan	朝御飯
+day after tomorrow	あさって	asatte	
+foot, leg	あし	ashi	足
+tomorrow	あした	ashita	
+there, over there, that place	あそこ	asoko	
+to play, to enjoy oneself	あそぶ	asobu	遊ぶ
+warm, mild	あたたかい	atatakai	暖かい
+head	あたま	atama	頭
+new	あたらしい	atarashii	新しい
+there, yonder, that	あちら	achira	
+hot, warm	あつい	atsui	暑い
+hot (thing)	あつい	atsui	熱い
+kind, warm(hearted), thick, deep	あつい	atsui	厚い
+over there	あっち	acchi	
+afterwards, since then, in the future	あと	ato	後
+you	あなた	anata	
+(hum) older brother	あに	ani	兄
+(hum) older sister	あね	ane	姉
+that over there	あの	ano	
+um...	あの	ano	
+apartment (abbr)	アパート	apaato	
+to bathe, to shower	あびる	abiru	
+dangerous, critical, watch out!	あぶない	abunai	危ない
+generous, sweet	あまい	amai	甘い
+not very, not much	あまり	amari	
+rain	あめ	ame	雨
+(hard) candy, toffee	あめ	ame	飴
+to wash	あらう	arau	洗う
+to be	ある [存在]	aru	
+to have	ある [所有]	aru	
+to walk	あるく	aruku	歩く
+that, that thing	あれ	are	
+good	いい/よい	ii/yoi	
+no, not at all	いいえ	iie	
+to say	いう	iu	言う
+house, family	いえ	ie	家
+how, in what way	いかが	ikaga	
+to go	いく/ゆく	iku/yuku	行く
+how many?, how old?	いくつ	ikutsu	
+how much?, how many?	いくら	ikura	
+pond	いけ	ike	池
+doctor (medical)	いしゃ	isha	医者
+chair	いす	isu	
+busy, irritated	いそがしい	isogashii	忙しい
+painful	いたい	itai	痛い
+one	いち	ichi	一
+1 day (duration)	いちにち	ichinichi	一日
+best, first, number one	いちばん	ichiban	
+when	いつ	itsu	
+five days, the fifth day (of the month)	いつか	itsuka	五日
+together	いっしょ	issho	一緒
+five	いつつ	itsutsu	五つ
+always, every time	いつも	itsumo	
+dog	いぬ	inu	犬
+now	いま	ima	今
+meaning	いみ	imi	意味
+younger sister	いもうと	imouto	妹
+disagreeable, no	いや	iya	嫌
+entrance, gate	いりぐち	iriguchi	入口
+(hum) to be (animate), to exist	いる	iru	居る
+to need	いる	iru	要る
+to put in	いれる	ireru	入れる
+colour	いろ	iro	色
+various	いろいろ	iroiro	
+above, on top of	うえ	ue	上
+behind, rear	うしろ	ushiro	後ろ
+thin, weak	うすい	usui	薄い
+song	うた	uta	歌
+to sing	うたう	utau	歌う
+house (one's own)	うち	uchi	
+to be born	うまれる	umareru	生まれる
+sea, beach	うみ	umi	海
+to sell	うる	uru	売る
+noisy, loud, annoying	うるさい	urusai	
+coat, jacket	うわぎ	uwagi	上着
+picture, drawing, painting, sketch	え	e	絵
+movie, film	えいが	eiga	映画
+movie theatre (theater), cinema	えいがかん	eigakan	映画館
+the English language	えいご	eigo	英語
+yes	ええ	ee	
+station	えき	eki	駅
+elevator	エレベーター	erebeetaa	
+yen (currency)	～えん	～en	～円
+pencil	えんぴつ	enpitsu	鉛筆
+honourable ～ (honorific)	お～	o～	
+delicious, tasty	おいしい	oishii	
+many	おおい	ooi	多い
+big	おおきい	ooki	大きい
+big	おおきな	ookina	大きな
+great number of people	おおぜい	oozei	大勢
+(hon) mother	おかあさん	okaasan	お母さん
+confections, sweets, candy	おかし	okashi	お菓子
+money	おかね	okane	お金
+to get up, to rise	おきる	okiru	起きる
+to put, to place	おく	oku	置く
+(hon) wife	おくさん	okusan	奥さん
+alcohol, sake (rice wine)	おさけ	osake	お酒
+plate, dish	おさら	osara	お皿
+uncle, middle aged man	おじさん	ojisan	伯父/叔父・さん
+grandfather, male senior citizen	おじいさん	ojiisan	
+to teach, to inform	おしえる	oshieru	教える
+to push, to press	おす	osu	押す
+late, slow	おそい	osoi	遅い
+tea (green)	おちゃ	ocha	お茶
+toilet, lavatory, bathroom	おてあらい	otearai	お手洗い
+(hon) father	おとうさん	otousan	お父さん
+younger brother	おとうと	otouto	弟
+man	おとこ	otoko	男
+boy	おとこのこ	otokonoko	男の子
+day before yesterday	おととい	ototoi	
+year before last	おととし	ototoshi	
+adult	おとな	otona	大人
+stomach	おなか	onaka	
+same, identical, similar	おなじ	onaji	同じ
+(hon) older brother	おにいさん	oniisan	お兄さん
+(hon) older sister	おねえさん	oneesan	お姉さん
+aunt	おばさん	obasan	伯母さん/叔母さん
+grandmother, female senior-citizen	おばあさん	obaasan	
+bath	おふろ	ofuro	お風呂
+boxed lunch	おべんとう	obentou	お弁当
+to remember, to memorize	おぼえる	oboeru	覚える
+policeman (friendly term)	おまわりさん	omawarisan	
+heavy	おもい	omoi	重い
+interesting, amusing	おもしろい	omoshiroi	
+to swim	およぐ	oyogu	泳ぐ
+to alight (eg from bus), to get off	おりる	oriru	降りる
+to finish, to close	おわる	owaru	終る
+music	おんがく	ongaku	音楽
+woman, girl, daughter	おんな	onna	女
+girl	おんなのこ	onnanoko	女の子
+counter for occurrences	～かい	～kai	～回
+counter for storeys of a building	～かい	～kai	～階
+foreign country	がいこく	gaikoku	外国
+foreigner	がいこくじん	gaikokujin	外国人
+company, corporation	かいしゃ	kaisha	会社
+stairs	かいだん	kaidan	階段
+shopping	かいもの	kaimono	買い物
+to buy	かう	kau	買う
+to return something	かえす	kaesu	返す
+to go home, to return	かえる	kaeru	帰る
+face (person)	かお	kao	顔
+to take (eg time, money)	かかる	kakaru	
+key/s	かぎ	kagi	
+to write	かく	kaku	書く
+student	がくせい	gakusei	学生
+(number of) months	～かげつ	～kagetsu	～か月
+to put on (eg glasses)	かける	kakeru	
+to dial/call (eg phone)	かける	kakeru	
+umbrella	かさ	kasa	傘
+to lend	かす	kasu	貸す
+wind, breeze	かぜ	kaze	風
+cold, illness	かぜ	kaze	風邪
+person	かた	kata	方
+family	かぞく	kazoku	家族
+katakana	かたかな	katakana	片仮名
+month of year	～がつ	～gatsu	～月
+school	がっこう	gakkou	学校
+cup	カップ	kappu	
+home, household	かてい	katei	家庭
+corner (e.g. desk)	かど	kado	角
+bag, basket	かばん	kaban	
+(flower) vase	かびん	kabin	花瓶
+to wear, to put on (head)	かぶる	kaburu	
+paper	かみ	kami	紙
+camera	カメラ	kamera	
+Tuesday	かようび	kayoubi	火曜日
+spicy, salty	からい	karai	辛い
+body	からだ	karada	体
+to borrow, to have a loan	かりる	kariru	借りる
+feel	～がる	～garu	
+light, non-serious, minor	かるい	karui	軽い
+curry	カレー	karee	
+calendar	カレンダー	karendaa	
+river	かわ	kawa	川/河
+～ side	～がわ	～gawa	側
+cute, charming	かわいい	kawaii	
+kanji, Chinese character	かんじ	kanji	漢字
+tree, wood	き	ki	木
+yellow	きいろ	kiiro	黄色
+yellow	きいろい	kiiroi	黄色い
+to go out, to vanish	きえる	kieru	消える
+to hear, to listen, to ask	きく	kiku	聞く
+north	きた	kita	北
+guitar	ギター	gitaa	
+dirty, messy	きたない	kitanai	汚い
+coffee lounge	きっさてん	kissaten	喫茶店
+stamp (eg. postage)	きって	kitte	切手
+ticket	きっぷ	kippu	切符
+yesterday	きのう	kinou	昨日
+nine	きゅう	kyuu	九
+beef	ぎゅうにく	gyuuniku	牛肉
+milk	ぎゅうにゅう	gyuunyuu	牛乳
+today, this day	きょう	kyou	今日
+classroom	きょうしつ	kyoushitsu	教室
+siblings (brothers and sisters)	きょうだい	kyoudai	兄弟
+last year	きょねん	kyonen	去年
+dislike, hate	きらい	kirai	嫌い
+to cut, to chop	きる	kiru	切る
+to wear, to put on (from shoulders down)	きる	kiru	着る
+pretty, clean, nice, tidy	きれい	kirei	
+kilo (kilogram)	キロ/キログラム	kiro/kiroguramu	
+kilo (kilometre)	キロ/キロメートル	kiro/kiromeetoru	
+bank	ぎんこう	ginkou	銀行
+Friday	きんようび	kinyoubi	金曜日
+nine	く	ku	九
+medicine	くすり	kusuri	薬
+(with te-form verb) please do for me	ください	kudasai	
+fruit	くだもの	kudamono	果物
+mouth, orifice, opening	くち	kuchi	口
+shoes, footwear	くつ	kutsu	靴
+socks	くつした	kutsushita	靴下
+country	くに	kuni	国
+cloudiness, cloudy weather	くもり	kumori	曇り
+to become cloudy, to become dim	くもる	kumoru	曇る
+dark, gloomy	くらい	kurai	暗い
+approximate (quantity)	～くらい/ぐらい	～kurai/gurai	
+class	クラス	kurasu	
+gram	グラム	guramu	
+to come	くる	kuru	来る
+car, vehicle	くるま	kuruma	車
+black	くろ	kuro	黒
+black	くろい	kuroi	黒い
+policeman	けいかん	keikan	警官
+this morning	けさ	kesa	今朝
+to erase, to delete, to turn off power	けす	kesu	消す
+nice, enough	けっこう	kekkou	結構
+marriage	けっこん（する）	kekkon (suru)	結婚
+Monday	げつようび	getsuyoubi	月曜日
+entrance-way, entry hall	げんかん	genkan	玄関
+health	げんき	genki	元気
+counter for small items	～こ	～ko	～個
+five	ご	go	五
+word, language	～ご	～go	～語
+(public) park	こうえん	kouen	公園
+intersection	こうさてん	kousaten	交差点
+black tea	こうちゃ	koucha	紅茶
+police box	こうばん	kouban	交番
+voice	こえ	koe	声
+coat	コート	kooto	
+coffee	コーヒー	koohii	
+here, this place	ここ	koko	
+afternoon, P.M.	ごご	gogo	午後
+nine days, the ninth day (of the month)	ここのか	kokonoka	九日
+nine	ここのつ	kokonotsu	九つ
+morning, A.M.	ごぜん	gozen	午前
+to answer, to reply	こたえる	kotaeru	答える
+this eg person, way	こちら	kochira	
+this eg person, way	こっち	kocchi	
+cup	コップ	koppu	
+this year	ことし	kotoshi	今年
+word	ことば	kotoba	言葉
+child, children	こども	kodomo	子供
+this	この	kono	
+rice (cooked), meal	ごはん	gohan	御飯
+to copy	コピー・する	kopii・suru	
+to be worried, to be bothered	こまる	komaru	困る
+this	これ	kore	
+about, approximately (time)	～ころ/～ごろ	～koro/～goro	
+this month	こんげつ	kongetsu	今月
+this week	こんしゅう	konshuu	今週
+such, like this	こんな	konna	
+tonight, this evening	こんばん	konban	今晩
+come now, well	さあ	saa	
+～years-old	～さい	～sai	～歳
+wallet	さいふ	saifu	財布
+fish	さかな	sakana	魚
+the future, former, previous	さき	saki	先
+to bloom	さく	saku	咲く
+composition, writing	さくぶん	sakubun	作文
+to raise (stretch out) hands, to raise (eg umbrella)	さす	sasu	差す
+counter for books	～さつ	～satsu	～冊
+magazine	ざっし	zasshi	雑誌
+sugar	さとう	satou	砂糖
+cold (e.g. weather)	さむい	samui	寒い
+year after next	さらいねん	sarainen	さ来年
+Mr or Mrs	～さん	～san	
+three	さん	san	三
+walk, stroll	さんぽ（する）	sanpo (suru)	散歩
+four	し	shi	四
+time (～ O'clock)	～じ	～ji	～時
+salt	しお	shio	塩
+however, but	しかし	shikashi	
+time	じかん	jikan	時間
+～hours	～じかん	～jikan	～時間
+work, occupation, employment	しごと	shigoto	仕事
+dictionary	じしょ	jisho	辞書
+quiet, peaceful	しずか	shizuka	静か
+under, below, beneath	した	shita	下
+seven	しち	shichi	七
+question, inquiry	しつもん	shitsumon	質問
+bicycle	じてんしゃ	jitensha	自転車
+automobile	じどうしゃ	jidousha	自動車
+to die	しぬ	shinu	死ぬ
+dictionary	じびき	jibiki	字引
+myself, oneself	じぶん	jibun	自分
+to close, to be closed	しまる	shimaru	閉まる
+to close, to shut	しめる	shimeru	閉める
+to tie, to fasten	しめる	shimeru	締める
+well, well then	じゃ/じゃあ	ja/jaa	
+photograph	しゃしん	shashin	写真
+shirt, singlet	シャツ	shatsu	
+shower	シャワー	shawaa	
+ten	じゅう	juu	十
+during, while	～じゅう	～juu	～中
+～weeks	～しゅうかん	～shuukan	～週間
+lesson, class work	じゅぎょう	jugyou	授業
+homework	しゅくだい	shukudai	宿題
+skill, skillful, dexterity	じょうず	jouzu	上手
+strong, solid, durable	じょうぶ	joubu	丈夫
+soy sauce	しょうゆ	shouyu	
+cafeteria, dining hall	しょくどう	shokudou	食堂
+to know, to understand	しる	shiru	知る
+white	しろ	shiro	白
+white	しろい	shiroi	白い
+counter for people	～にん	～nin	～人
+newspaper	しんぶん	shinbun	新聞
+Wednesday	すいようび	suiyoubi	水曜日
+to smoke, to breathe in, to suck	すう	sū	吸う
+skirt	スカート	sukaato	
+liking, fondness, love	すき	suki	好き
+to exceed, ～ too much	～すぎ	～sugi	
+a few, scarce	すくない	sukunai	少ない
+immediately, instantly	すぐ・に	sugu・ni	
+little, few	すこし	sukoshi	少し
+cool, refreshing	すずしい	suzushii	涼しい
+at a time, gradually	～ずつ	～zutsu	
+heater (lit: stove)	ストーブ	sutoobu	
+spoon	スプーン	supuun	
+sport	スポーツ	supootsu	
+trousers (fr: jupon)	ズボン	zubon	
+to reside, to live in	すむ	sumu	住む
+slippers	スリッパ	surippa	
+to do, to try	する	suru	
+to sit	すわる	suwaru	座る
+height, stature	せい	sei	背
+pupil	せいと	seito	生徒
+sweater, jumper	セーター	seetaa	
+soap	せっけん	sekken	石鹸
+business suit	せびろ	sebiro	背広
+narrow, confined, small	せまい	semai	狭い
+zero	ゼロ	zero	
+thousand, many	せん	sen	千
+last month	せんげつ	sengetsu	先月
+last week, the week before	せんしゅう	senshuu	先週
+teacher, master, doctor	せんせい	sensei	先生
+washing, laundry	せんたく	sentaku	洗濯
+all, entire, whole	ぜんぶ	zenbu	全部
+appears, to be the case	そう/そうです	sou/soudesu	
+cleaning, sweeping	そうじ（する）	souji (suru)	掃除
+and, like that	そうして/そして	soushite/soshite	
+that place, there	そこ	soko	
+over there	そちら	sochira	
+over there	そっち	socchi	
+outside, exterior	そと	soto	外
+that	その	sono	
+near, close, beside	そば	soba	
+sky	そら	sora	空
+it, that	それ	sore	
+and then, after that	それから	sorekara	
+in that situation, well then...	それでは	soredeha	
+counter for vehicles/machines	～だい	～dai	～台
+university	だいがく	daigaku	大学
+embassy	たいしかん	taishikan	大使館
+safe, all right, O.K.	だいじょうぶ	daijoubu	大丈夫
+very likeable, like very much	だいすき	daisuki	大好き
+important	たいせつ	taisetsu	大切
+kitchen	だいどころ	daidokoro	台所
+very	たいへん	taihen	
+difficult situation, tough situation	たいへん	taihen	
+tall, high	たかい	takai	高い
+expensive	たかい	takai	高い
+only ～, just ～	～だけ	～dake	
+many, a lot, much	たくさん	takusan	
+taxi	タクシー	takushii	
+to put out, to send	だす	dasu	出す
+plural suffix	～たち	～tachi	
+to stand	たつ	tatsu	立つ
+length, height	たて	tate	
+building	たてもの	tatemono	建物
+enjoyable, fun	たのしい	tanoshii	楽しい
+to request, to ask	たのむ	tanomu	頼む
+tobacco, cigarettes	たばこ	tabako	
+perhaps, probably	たぶん	tabun	
+food	たべもの	tabemono	食べ物
+to eat	たべる	taberu	食べる
+egg(s)	たまご	tamago	卵
+who	だれ	dare	誰
+someone, somebody	だれか	dareka	誰か
+birthday	たんじょうび	tanjoubi	誕生日
+gradually, by degrees	だんだん	dandan	
+small, little	ちいさい	chiisai	小さい
+small, little	ちいさな	chiisana	小さな
+near, close by, short	ちかい	chikai	近い
+to differ (from)	ちがう	chigau	違う
+near	ちかく	chikaku	近く
+underground train, subway	ちかてつ	chikatetsu	地下鉄
+map	ちず	chizu	地図
+(one's own) father	ちち	chichi	父
+brown	ちゃいろ	chairo	茶色
+rice bowl	ちゃわん	chawan	
+during, while ～ing	～ちゅう	～chuu	～中
+just, right, exactly	ちょうど	choudo	
+a little, somewhat	ちょっと	chotto	
+for one day, first of month	ついたち	tsuitachi	一日
+to use	つかう	tsukau	使う
+to get tired, to tire	つかれる	tsukareru	疲れる
+next	つぎ	tsugi	次
+to arrive at, to reach	つく	tsuku	着く
+desk	つくえ	tsukue	机
+to make, to create	つくる	tsukuru	作る
+to turn on (eg a light)	つける	tsukeru	
+to serve, to work (for)	つとめる	tsutomeru	勤める
+insignificant, boring	つまらない	tsumaranai	
+cold (to the touch)	つめたい	tsumetai	冷たい
+strong, powerful	つよい	tsuyoi	強い
+hand	て	te	手
+tape	テープ	teepu	
+tape recorder	テープレコーダー	teepurekoodaa	
+table	テーブル	teeburu	
+to depart, to go out	でかける	dekakeru	出かける
+letter	てがみ	tegami	手紙
+to be able to	できる	dekiru	
+exit	でぐち	deguchi	出口
+test	テスト	tesuto	
+with that...	では	deha	
+department store	デパート	depaato	
+but, however	でも	demo	
+to appear, to leave	でる	deru	出る
+television, TV	テレビ	terebi	
+weather	てんき	tenki	天気
+electricity, (electric) light	でんき	denki	電気
+electric train	でんしゃ	densha	電車
+telephone	でんわ	denwa	電話
+door (Japanese style)	と	to	戸
+counter for occurrences	～ど	～do	～度
+door (Western style)	ドア	doa	
+toilet	トイレ	toire	
+how, in what way	どう	dou	
+why?, for what reason	どうして	doushite	
+please, kindly, by all means	どうぞ	douzo	
+animal	どうぶつ	doubutsu	動物
+thanks, very	どうも	doumo	
+ten	とお	too	十
+far, distant	とおい	tooi	遠い
+ten days, the tenth (day of the month)	とおか	tooka	十日
+at the time of ～	～とき	～toki	～時
+sometimes	ときどき	tokidoki	時々
+watch, clock	とけい	tokei	時計
+where, what place	どこ	doko	
+place	ところ	tokoro	所
+year, age	とし	toshi	年
+library	としょかん	toshokan	図書館
+which, which way	どちら	dochira	
+which one, which way	どっち	docchi	
+very	とても	totemo	
+who	どなた	donata	
+next to, next door to	となり	tonari	隣
+which	どの	dono	
+to fly, to hop	とぶ	tobu	飛ぶ
+to come to a halt	とまる	tomaru	止まる
+friend	ともだち	tomodachi	友達
+Saturday	どようび	doyoubi	土曜日
+bird	とり	tori	鳥
+chicken meat	とりにく	toriniku	とり肉
+to take	とる	toru	取る
+to take (a photo)	とる	toru	撮る
+which (of three or more)	どれ	dore	
+what, what kind of	どんな	donna	
+there isn't, doesn't have	ない	nai	
+knife	ナイフ	naifu	
+inside, middle, among	なか	naka	中
+long	ながい	nagai	長い
+while ~ing, during, although	～ながら	～nagara	
+to sing (bird), to make sound (animal)	なく	naku	鳴く
+to lose something	なくす	nakusu	無くす
+why	なぜ	naze	
+summer	なつ	natsu	夏
+summer vacation, summer holiday	なつやすみ	natsuyasumi	夏休み
+et cetera	～など	～nado	
+seven	ななつ	nanatsu	七つ
+what	なん/なに	nan/nani	何
+seven days, the seventh day (of the month)	なのか	nanoka	七日
+name	なまえ	namae	名前
+to learn	ならう	narau	習う
+to line up, to stand in a line	ならぶ	narabu	並ぶ
+to line up, to set up	ならべる	naraberu	並べる
+to become	なる	naru	
+what sort of ～	なん～	nan～	何～
+two	に	ni	二
+bustling, busy	にぎやか	nigiyaka	
+meat	にく	niku	肉
+west	にし	nishi	西
+～ day of the month, for ～ days	～にち	～nichi	～日
+Sunday	にちようび	nichiyoubi	日曜日
+luggage	にもつ	nimotsu	荷物
+news	ニュース	nyuusu	
+garden	にわ	niwa	庭
+counter for people	～にん	～nin	～人
+to take off clothes	ぬぐ	nugu	脱ぐ
+lukewarm	ぬるい	nurui	温い
+tie, necktie	ネクタイ	nekutai	
+cat	ねこ	neko	猫
+to go to bed, to sleep	ねる	neru	寝る
+～ years	～ねん	～nen	～年
+notebook, exercise book	ノート	nooto	
+to climb	のぼる	noboru	登る
+drink, beverage	のみもの	nomimono	飲み物
+to drink	のむ	nomu	飲む
+to get on, to ride in, to board	のる	noru	乗る
+tooth	は	ha	歯
+party	パーティー	paatii	
+yes	はい	hai	
+counter for cupfuls	～はい	～hai	～杯
+ashtray	はいざら	haizara	灰皿
+to enter, to contain, to hold	はいる	hairu	入る
+postcard	はがき	hagaki	葉書
+to wear, to put on (trousers)	はく	haku	
+box	はこ	hako	箱
+bridge	はし	hashi	橋
+chopsticks	はし	hashi	
+to begin	はじまる	hajimaru	始まる
+beginning, start	はじめ	hajime	初め/始め
+for the first time	はじめて	hajimete	初めて
+to run	はしる	hashiru	走る
+bus	バス	basu	
+butter	バター	bataa	
+20 years old, 20th year	はたち	hatachi	二十歳
+to work	はたらく	hataraku	働く
+eight	はち	hachi	八
+twenty days, twentieth (day of the month)	はつか	hatsuka	二十日
+flower	はな	hana	花
+nose	はな	hana	鼻
+talk, story	はなし	hanashi	話
+to speak	はなす	hanasu	話す
+(one's own) mother	はは	haha	母
+early	はやい	hayai	早い
+quick, fast	はやい	hayai	速い
+spring	はる	haru	春
+to stick, to paste	はる	haru	貼る
+clear weather	はれ	hare	晴れ
+to be sunny	はれる	hareru	晴れる
+half	はん	han	半
+evening	ばん	ban	晩
+～st/th best	～ばん	～ban	～番
+bread	パン	pan	
+handkerchief	ハンカチ	hankachi	
+number	ばんごう	bangou	番号
+dinner, evening meal	ばんごはん	bangohan	晩御飯
+half	はんぶん	hanbun	半分
+east	ひがし	higashi	東
+counter for small animals	～ひき	～hiki	～匹
+to pull	ひく	hiku	引く
+to play (piano, guitar)	ひく	hiku	弾く
+short, low	ひくい	hikui	低い
+aeroplane, airplane	ひこうき	hikouki	飛行機
+left hand side	ひだり	hidari	左
+man, person	ひと	hito	人
+one	ひとつ	hitotsu	一つ
+one month	ひとつき	hitotsuki	一月
+one person	ひとり	hitori	一人
+free time, leisure	ひま	hima	暇
+100, hundred	ひゃく	hyaku	百
+hospital	びょういん	byouin	病院
+illness, disease, sickness	びょうき	byouki	病気
+hiragana	ひらがな	hiragana	平仮名
+noon, daytime	ひる	hiru	昼
+lunch, midday meal	ひるごはん	hirugohan	昼御飯
+spacious, wide	ひろい	hiroi	広い
+film (roll of)	フィルム	firumu	
+envelope	ふうとう	fuutou	封筒
+swimming pool	プール	puuru	
+fork	フォーク	fooku	
+to blow (wind, etc)	ふく	fuku	吹く
+clothes	ふく	fuku	服
+two	ふたつ	futatsu	二つ
+pork	ぶたにく	butaniku	豚肉
+two people	ふたり	futari	二人
+second day of the month, two days	ふつか	futsuka	二日
+fat, thick	ふとい	futoi	太い
+winter	ふゆ	fuyu	冬
+to precipitate, to fall (e.g. rain)	ふる	furu	降る
+old (not person), aged, ancient	ふるい	furui	古い
+bath	ふろ	furo	
+～minutes	～ふん	～fun	～分
+sentence, text	ぶんしょう	bunshou	文章
+page	ページ	peeji	
+unskillful, poor	へた	heta	下手
+bed	ベッド	beddo	
+pet	ペット	petto	
+room	へや	heya	部屋
+area, vicinity	へん	hen	辺
+pen	ペン	pen	
+study, diligence	べんきょう（する）	benkyou (suru)	勉強
+convenient, handy	べんり	benri	便利
+way	ほう	hou	
+hat	ぼうし	boushi	帽子
+ball-point pen	ボールペン	boorupen	
+other place, the rest	ほか	hoka	外
+pocket	ポケット	poketto	
+want, in need of, desire	ほしい	hoshii	欲しい
+post	ポスト	posuto	
+thin, slender, fine	ほそい	hosoi	細い
+button	ボタン	botan	
+hotel	ホテル	hoteru	
+book	ほん	hon	本
+counter for long cylindrical things	～ほん	～hon	～本
+bookshelves	ほんだな	hondana	本棚
+reality, truth	ほんとう	hontou	
+counter for flat things	～まい	～mai	～枚
+every morning	まいあさ	maiasa	毎朝
+every month, monthly	まいげつ/まいつき	maigetsu/maitsuki	毎月
+every week	まいしゅう	maishuu	毎週
+every day	まいにち	mainichi	毎日
+every year, annually	まいねん/まいとし	mainen/maitoshi	毎年
+every night	まいばん	maiban	毎晩
+before, in front	まえ	mae	前
+in front of ～	～まえ	～mae	～前
+to turn, to bend	まがる	magaru	曲る
+unappetising, unpleasant (taste)	まずい	mazui	
+again, and	また	mata	
+yet, still, besides	まだ	mada	
+town, city	まち	machi	町
+to wait	まつ	matsu	待つ
+straight (ahead), direct	まっすぐ	massugu	
+match	マッチ	macchi	
+window	まど	mado	窓
+round, circular	まるい	marui	丸い/円い
+ten thousand, everything	まん	man	万
+fountain pen	まんねんひつ	mannenhitsu	万年筆
+to brush (teeth)	みがく	migaku	磨く
+right hand side	みぎ	migi	右
+short	みじかい	mijikai	短い
+water	みず	mizu	水
+store, shop, establishment	みせ	mise	店
+to show, to display	みせる	miseru	見せる
+road, street	みち	michi	道
+three days, the third day (of the month)	みっか	mikka	三日
+three	みっつ	mittsu	三つ
+green	みどり	midori	緑
+everyone	みなさん	minasan	皆さん
+South, proceeding south	みなみ	minami	南
+ear	みみ	mimi	耳
+to see, to watch	みる	miru	見る
+all, everyone, everybody	みんな	minna	
+six days, sixth (day of month)	むいか	muika	六日
+beyond, over there	むこう	mukou	向こう
+difficult	むずかしい	muzukashii	難しい
+six	むっつ	muttsu	六つ
+village	むら	mura	村
+eye, eyeball	め	me	目
+metre, meter	メートル	meetoru	
+spectacles, glasses	めがね	megane	眼鏡
+already	もう	mou	
+again	もう	mou	
+Thursday	もくようび	mokuyoubi	木曜日
+hello (on phone)	もしもし	moshimoshi	
+(1) to hold, to carry, (2) to possess	もつ	motsu	持つ
+more, longer, farther	もっと	motto	
+thing, object	もの	mono	物
+gate	もん	mon	門
+problem, question	もんだい	mondai	問題
+～ shop	～や	～ya	屋
+greengrocer	やおや	yaoya	八百屋
+vegetable	やさい	yasai	野菜
+easy, plain, simple	やさしい	yasashii	易しい
+cheap, inexpensive	やすい	yasui	安い
+rest, vacation, holiday	やすみ	yasumi	休み
+to rest, to have a break, to take a day off	やすむ	yasumu	休む
+eight	やっつ	yattsu	八つ
+mountain	やま	yama	山
+to do	やる	yaru	
+evening	ゆうがた	yuugata	夕方
+dinner	ゆうはん	yuuhan	夕飯
+post office	ゆうびんきょく	yuubinkyoku	郵便局
+last night	ゆうべ	yuube	昨夜
+famous	ゆうめい	yuumei	有名
+snow	ゆき	yuki	雪
+slowly, at ease	ゆっくり・と	yukkuri・to	
+eight days, the eighth (day of the month)	ようか	youka	八日
+Western-style clothes	ようふく	youfuku	洋服
+frequently, often	よく	yoku	
+well, skillfully	よく	yoku	
+beside, side, width	よこ	yoko	横
+(1) 4th day of month, (2) four days	よっか	yokka	四日
+four	よっつ	yottsu	四つ
+to call out, to invite	よぶ	yobu	呼ぶ
+to read	よむ	yomu	読む
+evening, night	よる	yoru	夜
+weak, feable	よわい	yowai	弱い
+next month	らいげつ	raigetsu	来月
+next week	らいしゅう	raishuu	来週
+next year	らいねん	rainen	来年
+radio	ラジオ	rajio	
+radio cassette player	ラジカセ	rajikase	
+splendid, fine	りっぱ	rippa	
+overseas student	りゅうがくせい	ryuugakusei	留学生
+parents, both parents	りょうしん	ryoushin	両親
+cooking, cuisine	りょうり	ryouri	料理
+travel, trip	りょこう	ryokou	旅行
+zero, nought	れい	rei	零
+refrigerator	れいぞうこ	reizouko	冷蔵庫
+record	レコード	rekoodo	
+restaurant	レストラン	resutoran	
+(to) practice	れんしゅう（する）	renshuu (suru)	練習
+corridor	ろうか	rouka	廊下
+six	ろく	roku	六
+shirt (lit: white shirt), business shirt	ワイシャツ	waishatsu	
+young	わかい	wakai	若い
+to understand	わかる	wakaru	分かる
+to forget	わすれる	wasureru	忘れる
+I, myself	わたし	watashi	私
+I, myself	わたくし	watakushi	私
+to pass over, to hand over	わたす	watasu	渡す
+to cross over, to go across	わたる	wataru	渡る
+bad, inferior	わるい	warui	悪い
