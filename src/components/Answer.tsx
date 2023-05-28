@@ -28,7 +28,7 @@ export const Answer = (props: AnswerProps) => {
       return;
     }
 
-    const error = !!(value && value !== props.word.romaji);
+    const error = !!(value && value.toLowerCase() !== props.word.romaji);
 
     if (!error) {
       props.changeWord(!value);
