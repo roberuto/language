@@ -7,7 +7,7 @@ type QuestionProps = {
 };
 
 export const Question = (props: QuestionProps) => {
-  const translation = props.showTranslations ? `(${props.word.meaning})` : '';
+  const translation = props.showTranslations && props.word.meaning ? `(${props.word.meaning})` : '';
   const question = `${props.word.kanji} ${translation}`.trim();
 
   return <Typography variant="h4" align="center">{question}</Typography>;
