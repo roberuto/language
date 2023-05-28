@@ -19,9 +19,17 @@ export const Answer = (props: AnswerProps) => {
   useEffect(() => {
     if (hint) {
       setValue(props.word.romaji);
-      wordsDispatch({ type: 'showHint', data: false });
     }
   }, [hint]);
+
+  const toggleHint = () => {
+    if(!hint) {
+      wordsDispatch({ type: 'showHint', data: true });
+    } else {
+      setValue('');
+      wordsDispatch({ type: 'showHint', data: false });
+    }
+  }
 
   const handleChange = (event: ChangeEvent<HTMLInputElement>) => {
     setValue(event.target.value);
@@ -42,12 +50,12 @@ export const Answer = (props: AnswerProps) => {
     }
 
     if (event.key === 'Escape') {
-      wordsDispatch({ type: 'showHint', data: true });
+      toggleHint();
     }
   };
 
   const handleDoubleClick = () => {
-    wordsDispatch({ type: 'showHint', data: true });
+    toggleHint();
   };
 
   return (
