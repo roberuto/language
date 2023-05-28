@@ -11,12 +11,17 @@ type AnswerProps = {
 export const Answer = (props: AnswerProps) => {
   const [value, setValue] = useState('');
   const [hasError, setHasError] = useState(false);
+  const [hint, setHint] = useState(false);
 
   useEffect(() => {
-    if(props.showAnswer) {
+    setHint(props.showAnswer);
+  }, [props.showAnswer]);
+
+  useEffect(() => {
+    if (hint) {
       setValue(props.word.romaji);
     }
-  }, [props.showAnswer])
+  }, [hint]);
 
   const handleChange = (event: ChangeEvent<HTMLInputElement>) => {
     setValue(event.target.value);
@@ -24,18 +29,25 @@ export const Answer = (props: AnswerProps) => {
   };
 
   const handleKeyDown = (event: KeyboardEvent<HTMLInputElement>) => {
-    if (event.key !== 'Enter') {
-      return;
+    if (event.key === 'Enter') {
+      const error = !!(value && value.toLowerCase() !== props.word.romaji);
+
+      if (!error) {
+        props.changeWord(!value);
+        setHint(false);
+        setValue('');
+      }
+
+      setHasError(error);
     }
 
-    const error = !!(value && value.toLowerCase() !== props.word.romaji);
-
-    if (!error) {
-      props.changeWord(!value);
-      setValue('');
+    if (event.key === 'Escape') {
+      setHint(true);
     }
+  };
 
-    setHasError(error);
+  const handleDoubleClick = () => {
+    setHint(true);
   };
 
   return (
@@ -43,6 +55,7 @@ export const Answer = (props: AnswerProps) => {
       value={value}
       onChange={handleChange}
       onKeyDown={handleKeyDown}
+      onDoubleClick={handleDoubleClick}
       error={hasError}
       inputProps={{ style: { fontSize: 40 } }}
     />
