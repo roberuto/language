@@ -1,6 +1,6 @@
 import { ReactNode } from 'react';
 import { Button } from '@mui/material';
-import { useWordsDispatch } from '../context/words';
+import { useWordsDispatch } from '../hooks/useWordsDispatch';
 
 type LoadWordsProps = {
   fileName: string;

@@ -1,5 +1,5 @@
 import { Typography } from '@mui/material';
-import { Word } from '../context/words'
+import { Word } from '../context/words.context'
 
 type QuestionProps = {
   word: Word;

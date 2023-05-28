@@ -1,25 +1,25 @@
 import { useState, ChangeEvent, KeyboardEvent, useEffect } from 'react';
 import { TextField } from '@mui/material';
-import { Word } from '../context/words';
+import { Word } from '../context/words.context';
+import { useWords } from '../hooks/useWords';
+import { useWordsDispatch } from '../hooks/useWordsDispatch';
 
 type AnswerProps = {
   word: Word;
-  showAnswer: boolean;
   changeWord: (skip?: boolean) => void;
 };
 
 export const Answer = (props: AnswerProps) => {
   const [value, setValue] = useState('');
   const [hasError, setHasError] = useState(false);
-  const [hint, setHint] = useState(false);
 
-  useEffect(() => {
-    setHint(props.showAnswer);
-  }, [props.showAnswer]);
+  const { hint } = useWords();
+  const wordsDispatch = useWordsDispatch();
 
   useEffect(() => {
     if (hint) {
       setValue(props.word.romaji);
+      wordsDispatch({ type: 'showHint', data: false });
     }
   }, [hint]);
 
@@ -34,20 +34,20 @@ export const Answer = (props: AnswerProps) => {
 
       if (!error) {
         props.changeWord(!value);
-        setHint(false);
+        wordsDispatch({ type: 'showHint', data: false });
         setValue('');
-      }
+      } 
 
       setHasError(error);
     }
 
     if (event.key === 'Escape') {
-      setHint(true);
+      wordsDispatch({ type: 'showHint', data: true });
     }
   };
 
   const handleDoubleClick = () => {
-    setHint(true);
+    wordsDispatch({ type: 'showHint', data: true });
   };
 
   return (
