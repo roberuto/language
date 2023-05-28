@@ -38,7 +38,7 @@ export const Words = () => {
     const idx = randomNumber(0, selectedRange.length - 1);
     const currentWord = selectedRange[idx];
 
-    wordsDispatch({ type: 'showHint', data: false })
+    wordsDispatch({ type: 'showHint', data: false });
     wordsDispatch({ type: 'selectWord', data: currentWord });
   };
 
@@ -46,6 +46,8 @@ export const Words = () => {
     if (!words?.length) {
       return;
     }
+    wordsDispatch({ type: 'selectWord', data: null });
+
     const wordsPerRange = Math.ceil(words.length / NUMBER_OF_BUTTONS);
     const newWordsRange = words.slice(idx * wordsPerRange - wordsPerRange, wordsPerRange * idx);
 
