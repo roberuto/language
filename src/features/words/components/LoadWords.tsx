@@ -11,6 +11,11 @@ export const LoadWords = (props: LoadWordsProps) => {
   const dispatchWords = useWordsDispatch();
 
   const handleClick = async () => {
+    dispatchWords({
+      type: 'load',
+      data: [],
+    });
+
     const request = await fetch(props.fileName);
     const text = await request.text();
     const arr = text.split('\n');
