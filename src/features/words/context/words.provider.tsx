@@ -9,6 +9,7 @@ export const WordsProvider = ({ children }: WordsProviderTypes) => {
   const [words, dispatch] = useReducer(wordsReducer, {
     words: [],
     selectedRange: [],
+    savedWords: [],
     selectedWord: null,
     hint: false
   });

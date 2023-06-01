@@ -25,6 +25,8 @@ export const LoadWords = (props: LoadWordsProps) => {
       return { kanji, kana, romaji, meaning, id: (Math.random() + 1).toString(36).substring(2) };
     });
 
+    dispatchWords({ type: 'clearSaved' });
+
     dispatchWords({
       type: 'load',
       data: words,

@@ -12,7 +12,7 @@ import { randomNumber } from './utils/random';
 const NUMBER_OF_BUTTONS = 9;
 
 export const Words = () => {
-  const { words, selectedRange, selectedWord } = useWords();
+  const { words, selectedRange, selectedWord, savedWords } = useWords();
   const wordsDispatch = useWordsDispatch();
 
   useEffect(() => {
@@ -63,6 +63,15 @@ export const Words = () => {
     }
   };
 
+  const saveWord = () => {
+    if (selectedWord) {
+      wordsDispatch({ type: 'saveWord', data: selectedWord });
+    }
+
+    const newWordsRange = selectedRange.filter((word) => word.id !== selectedWord?.id);
+    wordsDispatch({ type: 'selectRange', data: newWordsRange });
+  };
+
   return (
     <>
       <LoadWords fileName="masafumi_3.txt">Kanji 3</LoadWords>
@@ -97,10 +106,19 @@ export const Words = () => {
             <br />
 
             {selectedRange.length ? (
-              <Grid container alignItems="center" justifyContent="space-between">
-                <Typography>total: {selectedRange.length}</Typography>
-                <Button onClick={() => wordsDispatch({ type: 'showHint', data: true })}>HELP</Button>
-              </Grid>
+              <>
+                <Grid container alignItems="center" justifyContent="space-around">
+                  <Typography>total: {selectedRange.length}</Typography>
+                  {selectedWord && <Button onClick={saveWord}>SAVE WORD</Button>}
+                  <Button onClick={() => wordsDispatch({ type: 'showHint', data: true })}>HELP</Button>
+                </Grid>
+                {!!savedWords.length && (
+                  <Grid container alignItems="center" justifyContent="space-around">
+                    <Button onClick={() => wordsDispatch({ type: 'loadSaved' })}>LOAD SAVED</Button>
+                    <Typography>saved: {savedWords.length}</Typography>
+                  </Grid>
+                )}
+              </>
             ) : (
               <Success />
             )}

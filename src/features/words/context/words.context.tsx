@@ -28,12 +28,33 @@ export type ShowHintAction = {
   data: boolean;
 };
 
-type Actions = LoadWordsAction | SelectWordsRangeAction | SelectWordAction | ShowHintAction;
+export type SaveWordAction = {
+  type: 'saveWord';
+  data: Word;
+};
+
+export type ClearSavedWordsAction = {
+  type: 'clearSaved';
+};
+
+export type LoadSavedWordsAction = {
+  type: 'loadSaved';
+};
+
+type Actions =
+  | LoadWordsAction
+  | SelectWordsRangeAction
+  | SelectWordAction
+  | ShowHintAction
+  | SaveWordAction
+  | ClearSavedWordsAction
+  | LoadSavedWordsAction;
 
 type WordsState = {
   words: Word[];
   selectedRange: Word[];
   selectedWord: Word | null;
+  savedWords: Word[];
   hint: boolean;
 };
 
@@ -65,6 +86,24 @@ export const wordsReducer = (words: WordsState, action: Actions) => {
       return {
         ...words,
         hint: action.data,
+      };
+    }
+    case 'saveWord': {
+      return {
+        ...words,
+        savedWords: [...words.savedWords, action.data],
+      };
+    }
+    case 'clearSaved': {
+      return {
+        ...words,
+        savedWords: [],
+      };
+    }
+    case 'loadSaved': {
+      return {
+        ...words,
+        words: [...words.savedWords],
       };
     }
   }
