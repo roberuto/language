@@ -9,11 +9,13 @@ type SelectButtonsProps = {
 
 export const SelectButtons = (props: SelectButtonsProps) => {
   const [selectedButton, setSelectedButton] = useState(1);
-  const [buttonsStatus, setButtonsStatus] = useState(new Array(props.numberOfButtons).fill(false));
+  const [buttonsStatus, setButtonsStatus] = useState<boolean[]>([]);
 
   useEffect(() => {
     setSelectedButton(1);
-    setButtonsStatus(new Array(props.numberOfButtons).fill(false));
+    if (props.numberOfButtons && Number.isFinite(props.numberOfButtons)) {
+      setButtonsStatus(new Array(props.numberOfButtons).fill(false));
+    }
   }, [props.numberOfButtons]);
 
   useEffect(() => {
