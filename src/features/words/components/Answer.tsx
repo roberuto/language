@@ -1,7 +1,7 @@
 import { useState, ChangeEvent, KeyboardEvent, useEffect } from 'react';
 import { TextField } from '@mui/material';
 import { Word } from '../context/words.context';
-import { useWords } from '../hooks/useWords';
+import { useWordsState } from '../hooks/useWordsState';
 import { useWordsDispatch } from '../hooks/useWordsDispatch';
 
 type AnswerProps = {
@@ -13,7 +13,7 @@ export const Answer = (props: AnswerProps) => {
   const [value, setValue] = useState('');
   const [hasError, setHasError] = useState(false);
 
-  const { hint } = useWords();
+  const { hint } = useWordsState();
   const wordsDispatch = useWordsDispatch();
 
   useEffect(() => {
