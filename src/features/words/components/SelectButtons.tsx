@@ -14,7 +14,7 @@ export const SelectButtons = (props: SelectButtonsProps) => {
   useEffect(() => {
     setSelectedButton(1);
     setButtonsStatus(new Array(props.numberOfButtons).fill(false));
-  }, []);
+  }, [props.numberOfButtons]);
 
   useEffect(() => {
     if (props.changeStatus) {

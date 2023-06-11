@@ -1,6 +1,7 @@
 import { ReactNode } from 'react';
 import { Button } from '@mui/material';
 import { useWordsDispatch } from '../hooks/useWordsDispatch';
+import { useSettingsDispatcher } from '../../settings/hooks/useSettingsDispatch';
 
 type LoadWordsProps = {
   fileName: string;
@@ -9,6 +10,7 @@ type LoadWordsProps = {
 
 export const LoadWords = (props: LoadWordsProps) => {
   const dispatchWords = useWordsDispatch();
+  const dispatchSettings = useSettingsDispatcher();
 
   const handleClick = async () => {
     dispatchWords({
@@ -25,6 +27,9 @@ export const LoadWords = (props: LoadWordsProps) => {
       return { kanji, kana, romaji, meaning, id: (Math.random() + 1).toString(36).substring(2) };
     });
 
+    const numberOfWords = Math.ceil(words.length / 10) || 50;
+
+    dispatchSettings({ type: 'setWordsPerSet', data: numberOfWords });
     dispatchWords({ type: 'clearSaved' });
 
     dispatchWords({

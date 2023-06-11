@@ -1,23 +1,26 @@
 import { useEffect } from 'react';
 import { Button, Grid, Typography } from '@mui/material';
 import { useWords } from './hooks/useWords';
+import { useWordsState } from './hooks/useWordsState';
 import { useWordsDispatch } from './hooks/useWordsDispatch';
+import { useSettingsState } from '../settings/hooks/useSettingsState';
+import { useSettingsActions } from '../settings/hooks/useSettingsActions';
 import { LoadWords } from './components/LoadWords';
 import { SelectButtons } from './components/SelectButtons';
 import { Question } from './components/Question';
 import { Answer } from './components/Answer';
 import { Success } from './components/Success';
-import { randomNumber } from './utils/random';
-
-const NUMBER_OF_BUTTONS = 9;
 
 export const Words = () => {
-  const { words, selectedRange, selectedWord, savedWords } = useWords();
+  const { words, selectedRange, selectedWord, savedWords } = useWordsState();
+  const settingsState = useSettingsState();
+  const { setWordsPerSet } = useSettingsActions();
+  const { selectWord, selectRange, resetRange, changeWord, saveWord } = useWords(settingsState);
   const wordsDispatch = useWordsDispatch();
 
   useEffect(() => {
     if (selectedRange.length) {
-      handleWordsSelection();
+      selectWord();
     } else {
       wordsDispatch({ type: 'selectWord', data: null });
     }
@@ -25,52 +28,13 @@ export const Words = () => {
 
   useEffect(() => {
     if (words?.length) {
-      handleWordsRange(1);
+      selectRange(1);
     } else {
-      wordsDispatch({ type: 'selectRange', data: [] });
+      resetRange();
     }
   }, [words]);
 
-  const handleWordsSelection = () => {
-    if (!selectedRange.length) {
-      return;
-    }
-    const idx = randomNumber(0, selectedRange.length - 1);
-    const currentWord = selectedRange[idx];
-
-    wordsDispatch({ type: 'showHint', data: false });
-    wordsDispatch({ type: 'selectWord', data: currentWord });
-  };
-
-  const handleWordsRange = (idx: number) => {
-    if (!words?.length) {
-      return;
-    }
-    wordsDispatch({ type: 'selectWord', data: null });
-
-    const wordsPerRange = Math.ceil(words.length / NUMBER_OF_BUTTONS);
-    const newWordsRange = words.slice(idx * wordsPerRange - wordsPerRange, wordsPerRange * idx);
-
-    wordsDispatch({ type: 'selectRange', data: newWordsRange });
-  };
-
-  const handleWordChange = (skip?: boolean) => {
-    if (skip) {
-      handleWordsSelection();
-    } else {
-      const newWordsRange = selectedRange.filter((word) => word.id !== selectedWord?.id);
-      wordsDispatch({ type: 'selectRange', data: newWordsRange });
-    }
-  };
-
-  const saveWord = () => {
-    if (selectedWord) {
-      wordsDispatch({ type: 'saveWord', data: selectedWord });
-    }
-
-    const newWordsRange = selectedRange.filter((word) => word.id !== selectedWord?.id);
-    wordsDispatch({ type: 'selectRange', data: newWordsRange });
-  };
+  const numberOfButtons = !words?.length ? 0 :  Math.ceil(words.length / settingsState.wordPerSet);
 
   return (
     <>
@@ -78,6 +42,13 @@ export const Words = () => {
       <LoadWords fileName="masafumi_4.txt">Kanji 4</LoadWords>
       <LoadWords fileName="n5_voc.txt">N5 Voc</LoadWords>
       <LoadWords fileName="kana.txt">Kana</LoadWords>
+      <input
+        type="number"
+        value={settingsState.wordPerSet}
+        onChange={(e) => {
+          setWordsPerSet(Number(e.target.value));
+        }}
+      />
       <div className="container">
         <Typography variant="h3" align="center">
           LEARN JAPANESE
@@ -89,8 +60,8 @@ export const Words = () => {
           <>
             <SelectButtons
               changeStatus={!selectedRange.length && !!selectedWord}
-              numberOfButtons={NUMBER_OF_BUTTONS}
-              onClick={(idx) => handleWordsRange(idx)}
+              numberOfButtons={numberOfButtons}
+              onClick={(idx) => selectRange(idx)}
             />
 
             <br />
@@ -99,7 +70,7 @@ export const Words = () => {
               <>
                 <Question word={selectedWord} showTranslations />
                 <br />
-                <Answer word={selectedWord} changeWord={handleWordChange} />
+                <Answer word={selectedWord} changeWord={changeWord} />
               </>
             )}
 
@@ -114,7 +85,14 @@ export const Words = () => {
                 </Grid>
                 {!!savedWords.length && (
                   <Grid container alignItems="center" justifyContent="space-around">
-                    <Button onClick={() => wordsDispatch({ type: 'loadSaved' })}>LOAD SAVED</Button>
+                    <Button
+                      onClick={() => {
+                        setWordsPerSet(savedWords.length);
+                        wordsDispatch({ type: 'loadSaved' });
+                      }}
+                    >
+                      LOAD SAVED
+                    </Button>
                     <Typography>saved: {savedWords.length}</Typography>
                   </Grid>
                 )}

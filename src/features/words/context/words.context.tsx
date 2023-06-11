@@ -59,51 +59,50 @@ type WordsState = {
 };
 
 export const WordsContext = createContext<WordsState | null>(null);
-
 export const WordsDispatchContext = createContext<Dispatch<Actions> | null>(null);
 
-export const wordsReducer = (words: WordsState, action: Actions) => {
+export const wordsReducer = (state: WordsState, action: Actions) => {
   switch (action.type) {
     case 'load': {
       return {
-        ...words,
+        ...state,
         words: action.data,
       };
     }
     case 'selectRange': {
       return {
-        ...words,
+        ...state,
         selectedRange: action.data,
       };
     }
     case 'selectWord': {
       return {
-        ...words,
+        ...state,
         selectedWord: action.data,
       };
     }
     case 'showHint': {
       return {
-        ...words,
+        ...state,
         hint: action.data,
       };
     }
     case 'saveWord': {
       return {
-        ...words,
-        savedWords: [...words.savedWords, action.data],
+        ...state,
+        savedWords: [...state.savedWords, action.data],
       };
     }
     case 'clearSaved': {
       return {
-        ...words,
+        ...state,
         savedWords: [],
       };
     }
     case 'loadSaved': {
       return {
-        ...words,
-        words: [...words.savedWords],
+        ...state,
+        words: [...state.savedWords],
       };
     }
   }
